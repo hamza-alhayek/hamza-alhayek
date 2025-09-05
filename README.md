@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamza-alhayek
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web development & AI 🤖
+- 💕 in love with PHP Larvel & React.js
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
